@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"
+<title>Adrià Barber - Web</title>
+<link rel="stylesheet" href="estilos.css">
+<link href="<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
+
+
+</head>
+
+<body>
+<header>
+  <div class="contenedor">
+    <div class="menu">
+      <p>Adrià Barber</p>
+      <nav>
+        <ul class="menu">
+            <li><a href="#sobremi" class="a-sobremi-menu">Sobre mi</a></li>
+            <li><a href="#servicios" class="a-servicios">Servicios</a></li>
+            <li>MIs Trabajos</li>
+            <li>Noticias</li>
+            <li>Blog</li>
+            <li><a href="#contacto" class="a-contacto">Contacto</a></li>
+        </ul>
+      </nav>
+    </div>
+
+    <div class="titular">
+      <h1>Adrià Barber Esbert</h1>
+      <h2>Diseñador & desarrollador Web</h2>
+      <a class="a-titular">VER MIS TRABAJOS</a>
+    </div>
+  </div>
+</header>
+
+<section id="sobremi">
+  <h3>Sobre mi</h3>
+  <div class="contenedor-sobremi">
+    <img src="sobre mi.png" alt="Adrià Barber Esbert" title="Adrià Barber Esbert">
+    <div class="contenedor-parrafo-y-boton">
+      <p>Mi nombre es Adrià Barber y soy diseñador de páginas web. Tengo experiencia en desarrollo de sitios web y un poco en c++.</p><p>Me aseguro de utilizar siempre las últimas tecnologías de desarrollo web: HTML5, CSS3. Si necesitas una página web moderna, funcional, que se adapte a todos los diferentes tipos de pantalla, te aseguro que llegaste al lugar correcto.</p><p class="parrafo-final">Puedes ponerte en contacto conmigo a través de Instagram, Gmail o completando el formulario de contacto que se encuentra al final de mi sitio web</p>
+      <a class="a-sobremi">VER MIS TRABAJOS</a>
+    </div>
+  </div>
+</section>
+<section id="servicios">
+      <h3>Servicios</h3>
+      <div class="contenedor-servicios">
+        <div class="servicio violeta a">
+          <h4>Diseño Web</h4>
+            <p>Páginas web atractivas y funcionales con el objetivo de satisfacer todas tus expectativas desde qualquier dispositivo. La importancia del diseño es fundamental para tener éxito y atraer a tus visitantes. También lo es la velocidad de carga del sitio web, deben ser rápidos para que el visitante tenga la mejor experiencia</p>
+            <img src="monitor.png">
+          </div>
+          <div class="servicio celeste b">
+            <h4>Mantenimiento</h4>
+            <p>Puedes contactarme si necesitas actualizar tu página web, agregar secciones o cualquier cambio que necesites. Esto es perfecto para los sitios web de pequeñas empresas, donde no se necesita un diseñador web a tiempo completo, sino solo en distintas ocasiones</p>
+            <img src="mante.png">
+          </div>
+          <div class="servicio violeta c">
+            <h4>Cursos</h4>
+            <p>Cursos variados para aprender a programar páginas Web o aprender a diseñar (logos, banners etc...)</p>
+            <img src="marketing.png">
+          </div>
+        </div>
+</section>
+<!--Seccion contacto-->
+<section id="contacto">
+  <h3>Contacto</h3>
+  <div class="contenedor-contacto">
+    <form action="enviar.php"  method="post" class="correo">
+      <div class="contact-row">
+        <div class="funciones left">
+          <div>
+            <label for="useremail">Correo</label>
+          </div>
+          <div>
+            <input id="useremail" name="useremail" type="email" class="contact-input" placeholder="correo" required/>
+          </div>
+        </div>
+        <div class="funciones right">
+          <div>
+            <label for="username">Nombre</label>
+          </div>
+          <div>
+            <input id="username" name="username" type="text" class="contact-input" placeholder="Nombre" required/>
+          </div>
+        </div>
+        <div class="contact-row bloque-mensaje" >
+            <div class="mensaje">
+            <div>
+              <label for="usermessage" class="mensaje-1">Mensaje</label>
+            </div>
+            <textarea id="usermessage" name="usermessage" placeholder="Mensaje" rows="3" required></textarea>
+            </div>
+        </div>
+        <div class="text-center">
+          <input class="btn-blue" type="submit" value="Enviar"/>
+        </div>
+    </form>
+  </div>
+</section>
+</body>
+
+
+
+
+</html>
