@@ -170,9 +170,13 @@ h3 {
   border: 3px solid #40a8fa;
 }
 
+.descripcion-moonmark {
+  border: 3px solid #40a8fa;
+}
+
 .falcon9 {
-   width: 100px;
-   height: 100px;
+  width: 200px;
+  height: 200px;
 }
 
 /*Seccion contacto*/
