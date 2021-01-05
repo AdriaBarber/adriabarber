@@ -163,6 +163,7 @@ h3 {
 /*Seccion de Blog*/
 
 .contenedor-moonmark {
+  width: 30%;
   border: 3px solid #40a8fa;
 }
 
