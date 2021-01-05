@@ -160,6 +160,11 @@ h3 {
   margin-top: 115px;
 }
 
+/*Seccion de Blog*/
+
+.contenedor-moonmark {
+  border: 3px solid #40a8fa;
+}
 
 
 /*Seccion contacto*/
