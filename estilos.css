@@ -260,6 +260,10 @@ h3 {
 
 /*Seccion de blog*/
 
-a-blog {
+.a-blog {
   text-decoration: none;
+}
+
+.imatges-blog {
+  display: flex;
 }
