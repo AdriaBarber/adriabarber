@@ -127,42 +127,34 @@ h3 {
 
 /*SECCION SERVICIOS*/
 
-.contenedor-servicios {
-  display: flex;
-  justify-content: space-around;
-
-}
-
-.servicio {
-  width: 25%;
+.contenedor-servicios { display: flex;
+  flex-wrap: wrap;
+  justify-content:
+  space-around; width: 100%; }
+  .servicio { width: 100%;
   padding: 20px;
   border-radius: 10px;
-  color: #fff;
-}
-
-.violeta {
+  margin-bottom: 40px;
+  color: #fff; }
+  .violeta {
   background: #5055df;
 }
 
-.celeste {
-  background: #40a8fa;
+    .celeste {
+    background: #40a8fa;
+}
+  .servicio h4 {
+    font-size: 30px; margin: 0;
+}
+  .servicio img {
+    float: right;
 }
 
-.servicio h4 {
-  font-size: 30px;
-  margin: 0;
+  .b img {
+    margin-top: 28px;
 }
-
-.servicio img {
-  float: right;
-}
-
-.b img {
-  margin-top: 28px;
-}
-
 .c img {
-  margin-top: 115px;
+margin-top: 115px;
 }
 
 
@@ -244,5 +236,3 @@ h3 {
 
 
 /*Seccion de mis trabajos*/
-
-.a-
