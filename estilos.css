@@ -131,30 +131,33 @@ h3 {
   flex-wrap: wrap;
   justify-content:
   space-around; width: 100%; }
-  .servicio { width: 100%;
+
+.servicio {
+  width: 15%;
   padding: 20px;
   border-radius: 10px;
   margin-bottom: 40px;
   color: #fff; }
-  .violeta {
+
+.violeta {
   background: #5055df;
 }
 
-    .celeste {
-    background: #40a8fa;
+.celeste {
+  background: #40a8fa;
 }
-  .servicio h4 {
-    font-size: 30px; margin: 0;
+.servicio h4 {
+  font-size: 30px; margin: 0;
 }
-  .servicio img {
-    float: right;
+.servicio img {
+  float: right;
 }
 
-  .b img {
-    margin-top: 28px;
+.b img {
+  margin-top: 28px;
 }
 .c img {
-margin-top: 115px;
+  margin-top: 115px;
 }
 
 
