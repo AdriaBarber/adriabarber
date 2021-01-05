@@ -130,15 +130,15 @@ h3 {
 .contenedor-servicios {
   display: flex;
   flex-wrap: wrap;
-  justify-content:
-  space-around;
+  justify-content: space-around;
 }
 
 .servicio {
   width: 20%;
   padding: 20px;
   border-radius: 10px;
-  color: #fff; }
+  color: #fff;
+}
 
 .violeta {
   background: #5055df;
