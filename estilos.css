@@ -134,7 +134,7 @@ h3 {
 }
 
 .servicio {
-  width: 21%;
+  width: 22%;
   padding: 20px;
   border-radius: 10px;
   color: #fff;
@@ -180,6 +180,14 @@ h3 {
 .falcon9 {
   width: 400px;
   height: 500px;
+}
+
+.a-blog {
+  text-decoration: none;
+}
+
+.imatges-blog {
+  display: flex;
 }
 
 /*Seccion contacto*/
@@ -255,15 +263,4 @@ h3 {
 .btn-blue:hover {
   color: #ffffff;
   background-color: #40a8fa;
-}
-
-
-/*Seccion de blog*/
-
-.a-blog {
-  text-decoration: none;
-}
-
-.imatges-blog {
-  display: flex;
 }
