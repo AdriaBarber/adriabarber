@@ -182,6 +182,7 @@ h3 {
 }
 
 .a-contacto-servicios {
+  text-align: center;
   margin-top: 50px;
   background: transparent;
   display: inline-block;
@@ -221,12 +222,12 @@ h3 {
 }
 
 .moon-mark{
-  width: 400px;
+  width: 450px;
   height: 300px;
 }
 
 .falcon9 {
-  width: 200px;
+  width: 220px;
   height: 300px;
 }
 
