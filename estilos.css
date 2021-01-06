@@ -50,6 +50,10 @@ ul {
   text-decoration: none;
 }
 
+.a-sobremi:hover {
+  font-size: 7px;
+}
+
 .a-contacto {
   text-decoration: none;
 }
