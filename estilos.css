@@ -172,6 +172,8 @@ h3 {
 }
 
 .a-contacto-servicios {
+  text-align: center;
+  margin-top: 15px;
   background: transparent;
   display: inline-block;
   color: #000000;
