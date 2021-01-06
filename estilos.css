@@ -213,9 +213,12 @@ h3 {
   border: 5px solid #40a8fa;
 }
 
+.descripcion-moonmark h2 {
+  width: 90%;
+}
 
 .p-moonmark {
-  width: 90%;
+  width: 85%;
   padding: 20px;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
