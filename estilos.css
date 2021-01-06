@@ -181,8 +181,12 @@ h3 {
 
 }
 
-.a-contacto-servicios {
+.contenedor-a-contacto-servicios {
   text-align: center;
+}
+
+
+.a-contacto-servicios {
   margin-top: 15px;
   background: transparent;
   display: inline-block;
