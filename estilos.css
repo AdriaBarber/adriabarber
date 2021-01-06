@@ -192,6 +192,7 @@ h3 {
 
 .imatges-blog {
   display: flex;
+  margin-bottom: 20px;
 }
 
 /*Seccion contacto*/
