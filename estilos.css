@@ -170,6 +170,24 @@ h3 {
   margin-top: 80px;
 
 }
+
+.a-contacto-servicios {
+  background: transparent;
+  display: inline-block;
+  color: #000000;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-decoration: none;
+  border: 3px solid #40a8fa;
+  padding: 10px 15px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.a-contacto-servicios:hover {
+  color: #ffffff;
+  background-color: #40a8fa;
+}
+
 /*Seccion de Blog*/
 
 .contenedor-moonmark {
