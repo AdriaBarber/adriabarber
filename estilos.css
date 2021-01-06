@@ -50,7 +50,7 @@ ul {
   text-decoration: none;
 }
 
-.a-sobremi:hover {
+.a-sobremi-menu:hover {
   font-size: 7px;
 }
 
@@ -173,7 +173,7 @@ h3 {
 
 .contenedor-moonmark {
   margin-left: 40px;
-  width: 75%;
+  width: 70%;
   border: 5px solid #40a8fa;
 }
 
