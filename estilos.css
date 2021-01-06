@@ -269,6 +269,17 @@ h3 {
   color: white;
 }
 
+/*Seccion Mis Trabajos*/
+
+.a-mistrabajos-menu {
+  text-decoration: none;
+}
+
+.a-mistrabajos-menu:hover {
+  font-size: 20px;
+  text-decoration: none;
+}
+
 /*Seccion contacto*/
 
 .correo {
