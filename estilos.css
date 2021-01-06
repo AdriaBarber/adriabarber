@@ -155,12 +155,16 @@ h3 {
 }
 
 .b img {
-  margin-top: 28px;
+  margin-top: 35px;
 }
 .c img {
-  margin-top: 115px;
+  margin-top: 140px;
 }
 
+.d img {
+  margin-top: 50px;
+
+}
 /*Seccion de Blog*/
 
 .contenedor-moonmark {
