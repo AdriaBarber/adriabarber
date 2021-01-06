@@ -258,6 +258,7 @@ h3 {
 }
 
 .btn-blue {
+  margin-right: 10px;
   background: transparent;
   display: inline-block;
   color: #000000;
