@@ -182,7 +182,7 @@ h3 {
 }
 
 .a-contacto-servicios {
-  margin-left: 900px;
+  margin-left: 870px;
   margin-top: 50px;
   background: transparent;
   display: inline-block;
@@ -208,7 +208,10 @@ h3 {
 
 }
 
-
+.contenedor-moonmark {
+  margin-left: 40px;
+  border: 5px solid #40a8fa;
+}
 
 
 .p-moonmark {
