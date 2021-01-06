@@ -223,8 +223,8 @@ h3 {
 
 .moon-mark {
   margin-bottom: 20px;
-  width: 700px;
-  height: 375px;
+  width: 750px;
+  height: 400px;
 }
 
 
@@ -236,6 +236,25 @@ h3 {
 .contenedor-KSTAR {
   margin-right: 40px;
   margin-left: 40px;
+}
+
+.a-volver {
+  margin-left: 893px;
+  margin-top: 50px;
+  background: transparent;
+  display: inline-block;
+  color: #000000;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-decoration: none;
+  border: 3px solid #40a8fa;
+  padding: 10px 15px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.a-volver:hover {
+  color: #ffffff;
+  background-color: #40a8fa;
 }
 
 /*Seccion contacto*/
