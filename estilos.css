@@ -210,16 +210,10 @@ h3 {
 
 .contenedor-moonmark {
   margin-left: 40px;
-  width: 83;
   border: 5px solid #40a8fa;
 }
 
-.descripcion-moonmark h2 {
-  width: 90%;
-}
-
 .p-moonmark {
-  width: 83%;
   padding: 20px;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
@@ -227,26 +221,17 @@ h3 {
   background: #40a8fa;
 }
 
-.moon-mark{
-  width: 450px;
-  height: 300px;
+.moon-mark {
+  margin-bottom: 20px;
 }
 
-.falcon9 {
-  width: 220px;
-  height: 300px;
-}
 
 .a-blog {
   text-decoration: none;
 }
 
-.imatges-blog {
-  display: flex;
-  margin-bottom: 20px;
-}
 
-.contendor-KSTAR {
+.contenedor-KSTAR {
   margin-right: 40px;
 
 }
