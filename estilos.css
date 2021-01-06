@@ -242,7 +242,8 @@ h3 {
 }
 
 .contendor-KSTAR {
-
+  margin-right: 40px;
+  
 }
 
 /*Seccion contacto*/
@@ -304,7 +305,7 @@ h3 {
 }
 
 .btn-blue {
-  margin-right: 40px;
+  margin-right: 100px;
   background: transparent;
   display: inline-block;
   color: #000000;
