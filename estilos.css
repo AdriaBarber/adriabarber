@@ -47,6 +47,11 @@ ul {
 .a-servicios {
   text-decoration: none;
 }
+
+.a-servicios:hover {
+  font-size: 20px;
+}
+
 .a-sobremi-menu {
   text-decoration: none;
 }
@@ -58,6 +63,11 @@ ul {
 .a-contacto {
   text-decoration: none;
 }
+
+.a-contacto:hover {
+  font-size: 20px;
+}
+
 
 .titular {
   text-align: center;
