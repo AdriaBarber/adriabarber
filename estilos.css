@@ -182,7 +182,7 @@ h3 {
 }
 
 .a-contacto-servicios {
-  text-align: center;
+  align-items: center;
   margin-top: 15px;
   background: transparent;
   display: inline-block;
