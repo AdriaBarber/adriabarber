@@ -204,6 +204,7 @@ h3 {
 
 .contenedor-blog {
   display: flex;
+  justify-content: space-around;
 }
 
 
@@ -303,7 +304,7 @@ h3 {
 }
 
 .btn-blue {
-  margin-right: 30px;
+  margin-right: 40px;
   background: transparent;
   display: inline-block;
   color: #000000;
