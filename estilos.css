@@ -45,54 +45,34 @@ ul {
 }
 
 .a-servicios {
-  background: transparent;
-  display: inline-block;
-  color: #000000;
   font-weight: bold;
   text-decoration: none;
-  border-radius: 20px;
-  border: 3px solid #5055df;
-  padding: 5px 10px;
-  transition: background-color 0.3s, color 0.3s;
+  transition: color 0.3s;
 }
 
 .a-servicios:hover {
-  color: #ffffff;
-  background-color: #5055df;
+  color: #5055df;
+
 }
 
 .a-sobremi-menu {
-  background: transparent;
-  display: inline-block;
-  color: #000000;
   font-weight: bold;
   text-decoration: none;
-  border-radius: 20px;
-  border: 3px solid #5055df;
-  padding: 5px 10px;
-  transition: background-color 0.3s, color 0.3s;
+  transition: color 0.3s;
 }
 
 .a-sobremi-menu:hover {
-  color: #ffffff;
-  background-color: #5055df;
+  color: #5055df;
 }
 
 .a-contacto {
-  background: transparent;
-  display: inline-block;
-  color: #000000;
   font-weight: bold;
   text-decoration: none;
-  border-radius: 20px;
-  border: 3px solid #5055df;
-  padding: 5px 10px;
-  transition: background-color 0.3s, color 0.3s;
+  transition: color 0.3s;
 }
 
 .a-contacto:hover {
-  color: #ffffff;
-  background-color: #5055df;
+  color: #5055df;
 }
 
 
@@ -256,21 +236,14 @@ h3 {
 
 
 .a-blog {
-  background: transparent;
-  display: inline-block;
-  color: #000000;
   font-weight: bold;
   text-decoration: none;
-  border-radius: 20px;
-  border: 3px solid #5055df;
-  padding: 5px 10px;
-  transition: background-color 0.3s, color 0.3s;
+  transition: color 0.3s;
 }
 
 
 .a-blog:hover {
-  color: #ffffff;
-  background-color: #5055df;
+  color: #5055df;
 }
 
 
@@ -305,20 +278,13 @@ h3 {
 /*Seccion Mis Trabajos*/
 
 .a-mistrabajos-menu {
-  background: transparent;
-  display: inline-block;
-  color: #000000;
   font-weight: bold;
   text-decoration: none;
-  border-radius: 20px;
-  border: 3px solid #5055df;
-  padding: 5px 10px;
-  transition: background-color 0.3s, color 0.3s;
+  transition: color 0.3s;
 }
 
 .a-mistrabajos-menu:hover {
-  color: #ffffff;
-  background-color: #5055df;
+  color: #5055df;
 }
 
 /*Seccion contacto*/
