@@ -302,7 +302,8 @@ h3 {
 }
 
 .mis-trabajos {
-
+  background: #5055df;
+  color: white;
 }
 
 .titol-mistrabajos {
@@ -312,8 +313,8 @@ h3 {
 }
 
 .mistrabajos1 {
-  width: 400px;
-  height: 200px;
+  width: 380px;
+  height: 210px;
 }
 
 .contenedor-imatge-y-descripcio {
