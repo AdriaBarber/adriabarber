@@ -4,8 +4,6 @@ body {
   font-family: "Poppins"
 }
 
-
-
 p {
   font-size: 20px
 }
@@ -14,7 +12,6 @@ li {
   list-style: none;
   margin-right: 25px;
 }
-
 
 .menu {
   display: flex;
@@ -75,7 +72,6 @@ ul {
   color: #5055df;
 }
 
-
 .titular {
   text-align: center;
   margin-top: 200px;
@@ -91,7 +87,6 @@ h2 {
   margin-bottom: 40px;
 }
 
-
 header {
   background: url(portada.png);
   height: 100vh;
@@ -104,7 +99,7 @@ header {
   margin: auto;
 }
 
-/* ARRANCA SECCION SOBRE MI */
+/*SECCION SOBRE MI */
 
 h3 {
   text-align: center;
@@ -185,7 +180,6 @@ h3 {
 
 .d img {
   margin-top: 75px;
-
 }
 
 .a-contacto-servicios {
@@ -207,7 +201,7 @@ h3 {
   background-color: #40a8fa;
 }
 
-/*Seccion de Blog*/
+/*SECCION BLOG*/
 
 .contenedor-blog {
   display: flex;
@@ -234,18 +228,15 @@ h3 {
   height: 425px;
 }
 
-
 .a-blog {
   font-weight: bold;
   text-decoration: none;
   transition: color 0.3s;
 }
 
-
 .a-blog:hover {
   color: #5055df;
 }
-
 
 .contenedor-KSTAR {
   margin-right: 40px;
@@ -294,8 +285,7 @@ h3 {
   color: white;
 }
 
-
-/*Seccion Mis Trabajos*/
+/*SECCION MIS TRABAJOS*/
 
 .a-mistrabajos-menu {
   font-weight: bold;
@@ -330,8 +320,7 @@ h3 {
   border: 3px solid #5055df;
 }
 
-
-/*Seccion contacto*/
+/*SECCION CONTACTO*/
 
 .correo {
   max-width: 1200px;
