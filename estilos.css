@@ -250,6 +250,23 @@ h3 {
 .contenedor-KSTAR {
   margin-right: 40px;
   margin-left: 40px;
+  border: 5px solid #5055df;
+}
+
+.imatges-KSTAR {
+  display: flex;
+}
+
+.korea {
+  width: 200px;
+  height: 100px;
+}
+
+.p-KSTAR {
+  padding: 20px;
+  background: #5055df;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
 }
 
 .a-volver {
