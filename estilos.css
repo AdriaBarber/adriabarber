@@ -302,12 +302,13 @@ h3 {
 }
 
 .mis-trabajos {
+  padding: 5px;
   background: #5055df;
   color: white;
 }
 
 .titol-mistrabajos {
-  width: 10%;
+  width: 2%;
   padding: 10px 15px;
   border: 3px solid #5055df;
 }
