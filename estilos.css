@@ -63,23 +63,39 @@ ul {
 }
 
 .a-sobremi-menu {
-  font-weight: 700;
+  background: transparent;
+  display: inline-block;
+  color: #000000;
+  text-transform: uppercase;
+  font-weight: bold;
   text-decoration: none;
-  transition: color 0.3;
+  border-radius: 20px;
+  border: 3px solid #5055df;
+  padding: 5px 10px;
+  transition: background-color 0.3s, color 0.3s;
 }
 
 .a-sobremi-menu:hover {
-  font-weight: 700;
-  color: #5055df;
+  color: #ffffff;
+  background-color: #5055df;
 }
 
 .a-contacto {
+  background: transparent;
+  display: inline-block;
+  color: #000000;
+  text-transform: uppercase;
+  font-weight: bold;
   text-decoration: none;
+  border-radius: 20px;
+  border: 3px solid #5055df;
+  padding: 5px 10px;
+  transition: background-color 0.3s, color 0.3s;
 }
 
 .a-contacto:hover {
-  font-size: 20px;
-  text-decoration: none;
+  color: #ffffff;
+  background-color: #5055df;
 }
 
 
@@ -243,12 +259,22 @@ h3 {
 
 
 .a-blog {
+  background: transparent;
+  display: inline-block;
+  color: #000000;
+  text-transform: uppercase;
+  font-weight: bold;
   text-decoration: none;
+  border-radius: 20px;
+  border: 3px solid #5055df;
+  padding: 5px 10px;
+  transition: background-color 0.3s, color 0.3s;
+}
 }
 
 .a-blog:hover {
-  font-size: 20px;
-  text-decoration: none;
+  color: #ffffff;
+  background-color: #5055df;
 }
 
 
@@ -283,12 +309,21 @@ h3 {
 /*Seccion Mis Trabajos*/
 
 .a-mistrabajos-menu {
+  background: transparent;
+  display: inline-block;
+  color: #000000;
+  text-transform: uppercase;
+  font-weight: bold;
   text-decoration: none;
+  border-radius: 20px;
+  border: 3px solid #5055df;
+  padding: 5px 10px;
+  transition: background-color 0.3s, color 0.3s;
 }
 
 .a-mistrabajos-menu:hover {
-  font-size: 20px;
-  text-decoration: none;
+  color: #ffffff;
+  background-color: #5055df;
 }
 
 /*Seccion contacto*/
