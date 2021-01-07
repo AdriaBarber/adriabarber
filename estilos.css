@@ -316,16 +316,18 @@ h3 {
 }
 
 .titol-mistrabajos {
+  display: inline-block;
   padding: 10px 15px;
   border: 3px solid #5055df;
 }
 
 .mistrabajos1 {
-  width: 100px;
-  height: 50px;
+  width: 300px;
+  height: 150px;
 }
 
 .contenedor-imatge-y-descripcio {
+  display: inline-block;
   padding: 10px 15px;
   border: 3px solid #5055df;
 }
