@@ -45,24 +45,24 @@ ul {
 }
 
 .a-servicios {
-  font-weight: bold;
+  font-weight: 700;
   text-decoration: none;
   transition: color 0.3;
 }
 
 .a-servicios:hover {
-  font-weight: bold;
+  font-weight: 700;
   color: #5055df;
 }
 
 .a-sobremi-menu {
-  font-weight: bold;
+  font-weight: 700;
   text-decoration: none;
   transition: color 0.3;
 }
 
 .a-sobremi-menu:hover {
-  font-weight: bold;
+  font-weight: 700;
   color: #5055df;
 }
 
