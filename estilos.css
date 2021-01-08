@@ -201,9 +201,6 @@ h3 {
   background-color: #40a8fa;
 }
 
-/*SECCION BLOG*/
-
-
 
 /*SECCION MIS TRABAJOS*/
 
@@ -248,78 +245,14 @@ h3 {
 
 /*SECCION CONTACTO*/
 
-.contenedor-contacto {
-  max-width: 1200px;
-  margin-left: 450px;
-}
-
-.contact-row {
-  padding-top: 10px;
-  padding-bottom: 10px;
-}
-
-.funciones {
-  width: 50%;
-
-}
-
-.left {
-  float: left;
-}
-
-.right {
-  float: right;
-
-}
-
-.funciones label {
-  text-transform: uppercase;
-  font-weight: bold;
-  font-size: 16px;
-}
-
-
-.contact-input {
-  border: 3px solid  #5055df;
-  height: 40px;
-  width: 67%;
-  padding-left: 10px;
-  padding-right: 10px;
-}
-
-
-.mensaje label {
-  text-transform: uppercase;
-  font-weight: bold;
-  font-size: 16px;
-}
-
-.mensaje textarea {
-  border: 3px solid #5055df;
-  width: 85%;
-  height: 200px;
-}
-
-.text-center {
-  margin-left: 490px;
-}
-
-.btn-blue {
-  margin-right: 110px;
-  background: transparent;
-  display: inline-block;
-  color: #000000;
-  text-transform: uppercase;
+.a-contacto {
   font-weight: bold;
   text-decoration: none;
-  border: 3px solid #40a8fa;
-  padding: 10px 15px;
-  transition: background-color 0.3s, color 0.3s;
+  transition: color 0.3s;
 }
 
-.btn-blue:hover {
-  color: #ffffff;
-  background-color: #40a8fa;
+.a-contacto {
+  color: #5055df;
 }
 
 /*SECCION DE FORMULARIO*/
