@@ -401,3 +401,9 @@ h3 {
   color: #ffffff;
   background-color: #40a8fa;
 }
+
+/*SECCION DE FORMULARIO*/
+
+.background: url(portada.png);
+height: 100vh;
+background-size: cover;
