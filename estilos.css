@@ -289,6 +289,7 @@ footer {
 
 .footerredes {
   margin-left: 40px;
+  float: right;
 }
 
 .sigueme {
@@ -299,14 +300,14 @@ footer {
   display: flex;
 }
 
-.instagram p {
-  margin-bottom: 25px;
+.c-instagram {
   margin-left: 5px;
+  margin-bottom: 25px;
 }
 
-.twitter p {
-  margin-bottom: 25px;
+.c-twitter {
   margin-left: 5px;
+  margin-bottom: 25px;
 }
 
 .twitter {
@@ -321,4 +322,8 @@ footer {
 .f-twitter {
   width: 50px;
   height: 50px;
+}
+
+.creditos {
+  margin-bottom: 10px;
 }
