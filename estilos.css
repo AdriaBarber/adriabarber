@@ -413,7 +413,7 @@ h3 {
   font-weight: bold;
   text-decoration: none;
   border: 3px solid #fcba03;
-  padding: 10px 15px;
+  padding: 5px 5px;
   transition: background-color 0.3s, color 0.3s;
 }
 
