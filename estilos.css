@@ -404,6 +404,20 @@ h3 {
 
 /*SECCION DE FORMULARIO*/
 
-.background: url(portada.png);
-height: 100vh;
-background-size: cover;
+.a-formulario {
+  margin-right: 110px;
+  background: transparent;
+  display: inline-block;
+  color: #000000;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-decoration: none;
+  border: 3px solid #fcba03;
+  padding: 10px 15px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.a-formulario:hover {
+  color: #000000;
+  background-color: #fcba03;
+}
