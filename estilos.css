@@ -427,3 +427,31 @@ h3 {
   color: #000000;
   background-color: #fcba03;
 }
+
+/*SECCION FOOTER*/
+
+footer {
+  background: #65686e;
+}
+
+.sigueme {
+  font-weight: bold;
+}
+
+.instagram {
+  display: flex;
+}
+
+.twitter {
+  display: flex;
+}
+
+.f-instagram {
+  width: 10px;
+  height: 10px;
+}
+
+.f-twitter {
+  width: 10px;
+  height: 10px;
+}
