@@ -446,6 +446,16 @@ footer {
   display: flex;
 }
 
+.instagram p {
+  margin-bottom: 25px;
+  margin-left: 5px;
+}
+
+.twitter p {
+  margin-bottom: 25px;
+  margin-left: 5px;
+}
+
 .twitter {
   display: flex;
 }
