@@ -438,16 +438,13 @@ footer {
   margin-left: 40px;
 }
 
-.redessociales {
-  align-items: center;
-}
-
 .sigueme {
   font-weight: bold;
 }
 
 .instagram {
   display: flex;
+  align-items: center;
 }
 
 .twitter {
