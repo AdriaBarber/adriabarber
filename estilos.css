@@ -434,6 +434,14 @@ footer {
   background: #65686e;
 }
 
+.footerredes {
+  margin-left: 40px;
+}
+
+.redessociales {
+  align-items: center;
+}
+
 .sigueme {
   font-weight: bold;
 }
