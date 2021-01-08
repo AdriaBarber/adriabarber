@@ -404,6 +404,12 @@ h3 {
 
 /*SECCION DE FORMULARIO*/
 
+.b-formulario {
+  background: url(portada.png);
+  height: 100vh;
+  background-size: cover;
+}
+
 .a-formulario {
   margin-right: 110px;
   background: transparent;
