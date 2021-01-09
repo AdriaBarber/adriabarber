@@ -192,13 +192,12 @@ h3 {
 /*SECCION MIS TRABAJOS*/
 
 .a-mistrabajos-menu {
-  font-weight: bold;
   text-decoration: none;
-  transition: color 0.3s;
+  transition: border-bottom 0.3s;
 }
 
 .a-mistrabajos-menu:hover {
-  color: #5055df;
+  border-bottom: 5px solid #40a8fa;
 }
 
 .contenedor-mis-trabajos {
@@ -232,6 +231,14 @@ h3 {
 
 /*SECCION CONTACTO*/
 
+.a-contacto {
+  text-decoration: none;
+  transition: border-bottom 0.3s;
+}
+
+.a-contacto:hover {
+  border-bottom: 5px solid #5055df;
+}
 
 /*SECCION DE FORMULARIO*/
 
