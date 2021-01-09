@@ -316,13 +316,16 @@ footer {
 .f-instagram {
   width: 30px;
   height: 30px;
+  margin-top: 25px;
 }
 
 .f-twitter {
   width: 30px;
   height: 30px;
+  margin-bottom: 25px;
 }
 
 .creditos {
   text-align: center;
+  margin-bottom: 100px;
 }
