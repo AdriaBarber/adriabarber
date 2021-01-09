@@ -4,6 +4,14 @@ body {
   font-family: "Poppins"
 }
 
+.contenedor-adaptable {
+  width: 90%;
+  max-width: 1880px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+
 p {
   font-size: 20px
 }
