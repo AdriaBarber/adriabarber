@@ -284,7 +284,7 @@ h3 {
 /*SECCION FOOTER*/
 
 footer {
-  background: #65686e;
+  background: #252424;
 }
 
 .footerredes {
@@ -316,11 +316,11 @@ footer {
 .f-instagram {
   width: 30px;
   height: 30px;
-  margin-top: 25px;
+  margin-top: 23px;
 }
 
 .f-twitter {
   width: 30px;
   height: 30px;
-  margin-bottom: 25px;
+  margin-top: 25px;
 }
