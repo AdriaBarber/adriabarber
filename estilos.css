@@ -295,9 +295,6 @@ footer {
   font-weight: bold;
 }
 
-.instagram {
-  display: flex;
-}
 
 .c-instagram {
   margin-left: 5px;
@@ -307,10 +304,6 @@ footer {
 .c-twitter {
   margin-left: 5px;
   margin-bottom: 25px;
-}
-
-.twitter {
-  display: flex;
 }
 
 .f-instagram {
