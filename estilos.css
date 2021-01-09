@@ -43,6 +43,15 @@ ul {
 
 /*A-SERVICIOS*/
 
+.a-servicios {
+  text-decoration: none;
+  transition: border-bottom 0.3s;
+}
+
+.a-servicios:hover {
+  border-bottom: 5px solid #5055df;
+}
+
 .a-sobremi-menu {
   font-weight: bold;
   text-decoration: none;
