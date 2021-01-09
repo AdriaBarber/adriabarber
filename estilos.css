@@ -1,5 +1,5 @@
 @media screen and (max-width: 800px) {
-  background: #000000;
+
 }
 
 body {
@@ -9,6 +9,7 @@ body {
 }
 
 .contenedor-adaptable {
+  width: 100%;
   max-width: 1920px;
   margin: 0 auto;
   overflow: hidden;
@@ -28,7 +29,6 @@ li {
   display: flex;
   text-align: center;
   justify-content: space-between;
-  align-items: center;
 }
 
 ul {
