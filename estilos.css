@@ -15,7 +15,6 @@ li {
 
 .menu {
   display: flex;
-  text-align: center;
   justify-content: space-between;
   align-items: center;
 }
