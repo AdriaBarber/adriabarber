@@ -250,6 +250,7 @@ h3 {
 }
 
 .a-formulario {
+  float: right;
   background: transparent;
   display: inline-block;
   color: #000000;
