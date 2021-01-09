@@ -61,15 +61,6 @@ ul {
   color: #5055df;
 }
 
-.a-contacto {
-  font-weight: bold;
-  text-decoration: none;
-  transition: color 0.3s;
-}
-
-.a-contacto:hover {
-}
-
 .titular {
   text-align: center;
   margin-top: 200px;
