@@ -272,6 +272,7 @@ h3 {
   margin-top: 50px;
   border-top: 5px solid #40a8fa;
   height: auto;
+  align-items: center;
 }
 
 .footer p {
