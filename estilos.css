@@ -251,7 +251,7 @@ h3 {
   transition: color 0.3s;
 }
 
-.a-contacto {
+.a-contacto:hover {
   color: #5055df;
 }
 
