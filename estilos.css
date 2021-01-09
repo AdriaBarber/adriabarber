@@ -1,20 +1,8 @@
-@media screen and (max-width: 800px) {
-
-}
-
 body {
   margin: 0;
   padding: 0;
   font-family: "Poppins"
 }
-
-.contenedor-adaptable {
-  width: 100%;
-  max-width: 1920px;
-  margin: 0 auto;
-  overflow: hidden;
-}
-
 
 p {
   font-size: 20px
@@ -321,3 +309,25 @@ footer {
   height: 30px;
   margin-top: 25px;
 }
+
+/*-------------MENU MEDIA QUERY-----------MENU MEDIA QUERY----------*/
+
+#btn-menu {
+  display: none;
+}
+
+header label {
+  display: none;
+  width: 30px;
+  height: 30px;
+  padding: 10px;
+}
+
+
+header label {
+  cursor: pointer;
+  backgorund
+}
+
+
+/*--------MEDIA QUERY------------MEDIA QUERY-------------MEDIA QUERY-----------*/
