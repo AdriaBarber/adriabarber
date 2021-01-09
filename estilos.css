@@ -295,10 +295,17 @@ footer {
   font-weight: bold;
 }
 
+.instagram {
+  display: flex;
+}
 
 .c-instagram {
   margin-left: 5px;
   margin-bottom: 25px;
+}
+
+.twitter {
+  display: flex;
 }
 
 .c-twitter {
@@ -317,5 +324,5 @@ footer {
 }
 
 .creditos {
-  margin-bottom: 10px;
+  text-align: center;
 }
