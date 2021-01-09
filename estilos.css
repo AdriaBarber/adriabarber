@@ -15,6 +15,7 @@ li {
 
 .menu {
   display: flex;
+  text-align: center;
   justify-content: space-between;
   align-items: center;
 }
@@ -306,46 +307,4 @@ footer {
   width: 30px;
   height: 30px;
   margin-top: 25px;
-}
-
-/*-------------MENU MEDIA QUERY-----------MENU MEDIA QUERY----------*/
-
-#btn-menu {
-  display: none;
-}
-
-header label img {
-  display: none;
-  width: 30px;
-  height: 30px;
-  padding: 10px;
-}
-
-
-header label {
-  cursor: pointer;
-}
-
-
-/*--------MEDIA QUERY------------MEDIA QUERY-------------MEDIA QUERY-----------*/
-
-@media (max-width: 768px) {
-  header label img {
-    display: block;
-  }
-
-  .menu {
-    position: absolute;
-    width: 70%;
-    margin-left: -70%;
-  }
-
-  .menu ul {
-    flex-direction: column;
-  }
-
-  #btn-menu:checked ~ .menu {
-    margin: 0;
-  }
-
 }
