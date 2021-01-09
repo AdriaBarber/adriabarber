@@ -326,8 +326,28 @@ header label img {
 
 header label {
   cursor: pointer;
-  background
 }
 
 
 /*--------MEDIA QUERY------------MEDIA QUERY-------------MEDIA QUERY-----------*/
+
+@media (max-width: 768px) {
+  header label img {
+    display: block;
+  }
+
+  .menu {
+    position: absolute;
+    width: 70%;
+    margin-left: -70%;
+  }
+
+  .menu ul {
+    flex-direction: column;
+  }
+
+  #btn-menu:checked ~ .menu {
+    margin: 0;
+  }
+
+}
