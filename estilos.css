@@ -41,15 +41,7 @@ ul {
   background-color: #40a8fa;
 }
 
-.a-servicios {
-  font-weight: bold;
-  transition: border-bottom 0.3s, color 0.3s;
-}
-
-.a-servicios:hover {
-  color: #5055df;
-  border-bottom: 5px solid #5055df;
-}
+/*A-SERVICIOS*/
 
 .a-sobremi-menu {
   font-weight: bold;
@@ -234,15 +226,6 @@ h3 {
 
 /*SECCION CONTACTO*/
 
-.a-contacto {
-  font-weight: bold;
-  text-decoration: none;
-  transition: color 0.3s;
-}
-
-.a-contacto:hover {
-  color: #5055df;
-}
 
 /*SECCION DE FORMULARIO*/
 
