@@ -41,8 +41,6 @@ ul {
   background-color: #40a8fa;
 }
 
-/*A-SERVICIOS*/
-
 .a-servicios {
   text-decoration: none;
   transition: border-bottom 0.3s;
@@ -53,13 +51,12 @@ ul {
 }
 
 .a-sobremi-menu {
-  font-weight: bold;
   text-decoration: none;
-  transition: color 0.3s;
+  transition: border-bottom 0.3s;
 }
 
 .a-sobremi-menu:hover {
-  color: #5055df;
+  border-bottom: 5px solid #40a8fa;
 }
 
 .titular {
