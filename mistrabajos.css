@@ -1,0 +1,40 @@
+#mistrabajos article {
+  margin-top: 40px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+}
+
+#mistrabajos h5 {
+  font-size: 25px;
+  font-weight: normal;
+  padding: 8px;
+  border: #744ede solid 3px;
+  width: 245px;
+}
+
+#mistrabajos img {
+  width: 100%;
+  height: 100%;
+  padding: 10px;
+  border: #744ede solid 3px;
+  margin-top: 10px;
+}
+
+#mistrabajos p {
+  font-size: 20px;
+  margin-top: 10px;
+  padding: 10px;
+  border: #744ede solid 3px;
+}
+
+@media (min-width:1024px) {
+  #mistrabajos .contenedor {
+    display: flex;
+  }
+
+  #mistrabajos img {
+    width: 100%;
+    height: auto;
+  }
+}
