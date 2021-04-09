@@ -49,7 +49,7 @@ header label {
 
   .menu a {
     border: none;
-    transition: 0.3s;
+    transition: 0.2s;
   }
 
   .menu a:hover {
