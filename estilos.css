@@ -82,33 +82,21 @@ footer .contenedor {
   margin-top: 20px;
 }
 
-.icon-instagram-with-circle {
+.sociales a {
   text-decoration: none;
   color: #333;
   transition: 0.3s;
 }
 
-.icon-instagram-with-circle:hover {
+.sociales .i:hover {
   color: #d142f5;
 }
 
-.icon-facebook-with-circle {
-  text-decoration: none;
-  color: #333;
-  transition: 0.3s;
-}
-
-.icon-facebook-with-circle:hover {
+.sociales .f:hover {
   color: #0951d6;
 }
 
-.icon-twitter-with-circle {
-  text-decoration: none;
-  color: #333;
-  transition: 0.3s;
-}
-
-.icon-twitter-with-circle:hover {
+.sociales .t {
   color: #3dd7f2;
 }
 
@@ -127,3 +115,7 @@ footer .contenedor {
     width: 1000px;
   }
 }
+333
+d142f5
+0951d6
+3dd7f2
