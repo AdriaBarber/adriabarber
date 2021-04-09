@@ -47,13 +47,9 @@ header label {
     display: flex;
   }
 
-  .menu a {
-    border: none;
-  }
-
   .menu a:hover {
     background: rgba(34,34,34,0.75);
-    border-bottom: #333 solid 3px;
+    border-bottom: #333 solid 8px;
   }
 
   header label {
