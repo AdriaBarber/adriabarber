@@ -4,7 +4,7 @@
 
 header label {
   float: right;
-  font-size: 25px;
+  font-size: 15px;
   margin: 6px 0;
   cursor: pointer;
 }
@@ -53,7 +53,7 @@ header label {
 
   .menu a:hover {
     background: rgba(34,34,34,0.75);
-    border-bottom: #000 solid 3px;
+    border-bottom: #333 solid 3px;
   }
 
   header label {
