@@ -82,7 +82,7 @@ footer .contenedor {
   margin-top: 20px;
 }
 
-.sociales a {
+.sociales .i, .f, .t {
   text-decoration: none;
   color: #333;
   transition: 0.3s;
@@ -96,7 +96,7 @@ footer .contenedor {
   color: #0951d6;
 }
 
-.sociales .t {
+.sociales .t:hover {
   color: #3dd7f2;
 }
 
