@@ -51,6 +51,11 @@ header label {
     border: none;
   }
 
+  .menu a:hover {
+    background: rgba(34,34,34,0.75);
+    border-bottom: #000 solid 3px;
+  }
+
   header label {
     display: none;
   }
