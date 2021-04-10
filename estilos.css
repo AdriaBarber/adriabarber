@@ -85,7 +85,7 @@ footer .contenedor {
 .sociales .i, .f, .t {
   text-decoration: none;
   color: #333;
-  transition: 0.3s;
+  transition: 0.2s;
 }
 
 .sociales .i:hover {
