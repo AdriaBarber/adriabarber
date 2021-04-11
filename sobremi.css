@@ -27,10 +27,10 @@
   transition: 0.3s;
 }
 
-/*#sobremi a:hover {
+#sobremi a:hover {
   background: #000;
   color: #fff;
-}*/
+}
 
 @media (min-width:768px) {
   #sobremi .contenedor {
