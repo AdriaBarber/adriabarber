@@ -16,7 +16,7 @@
   color: #000;
 }
 
-#banner a {
+/*#banner a {
   text-align: center;
   display: block;
   width: 100px;
@@ -34,7 +34,7 @@
 #banner a:hover {
   background-color: #000;
   color: #fff;
-}
+}*/
 
 #banner h2 {
   font-size: 28px;
